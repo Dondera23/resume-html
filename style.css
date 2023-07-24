@@ -1,0 +1,18 @@
+h1{
+    color: rgb(113, 164, 174);
+}
+h2{
+    color: rgb(167, 137, 195);
+}
+p{
+   color: darkcyan;
+}
+p[value=black]{
+    color: black;
+}
+#great{
+    background: rgb(121, 155, 168); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+*{
+    background: rgb(184, 211, 202);
+}
